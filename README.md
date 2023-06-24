@@ -1,4 +1,4 @@
-### Hi there 😊 My name is Jennifer.
+### Hey there 👋😊 My name is Jennifer.
 
 <hr/>
 
