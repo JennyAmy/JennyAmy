@@ -3,6 +3,7 @@
   <a href="https://www.linkedin.com/in/jennifer-oliseyenum/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=JennyAmy&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **JennyAmy/JennyAmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
