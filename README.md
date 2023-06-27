@@ -2,7 +2,7 @@
 
 <hr/>
 
-I am a full stack developer with four years’ experience developing enterprise solutions within the Fintech space and banking sector using Angular, Typescript, Javascript, C#, NET Core, Azure and SQL Databases such as MSSQL, MySql and Oracle.
+I am a full stack developer with four years’ experience developing enterprise solutions within the fintech space and banking sector using C#, NET, Angular, Typescript, Javascript, Azure and SQL Databases such as MSSQL, MySql and Oracle.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jennifer-oliseyenum/">
