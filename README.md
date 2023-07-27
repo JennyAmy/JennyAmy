@@ -2,7 +2,17 @@
 
 <hr/>
 
-I am a full stack developer with four years’ experience developing enterprise solutions within the fintech space and banking sector using C#, NET, Angular, Typescript, Javascript, Azure and SQL Databases such as MSSQL, MySql and Oracle.
+I am a results-driven Full Stack Software Developer with over four years of hands-on experience in creating robust enterprise solutions within the FinTech and banking sectors, leveraging technologies such as .NET(C#), Angular, and Azure.
+
+Throughout my career, I have been entrusted with the responsibility of upgrading, maintaining, and spearheading the end-to-end development of a wide array of solutions, including credit applications, banking systems, insurance platforms, administrative portals, and payment solutions. 
+
+My expertise extends to seamlessly integrating with payment services and developing high-performing web APIs to facilitate smooth transaction processing.
+
+I consistently strive to deliver code that is not only functional but also easily maintainable and scalable.
+
+Problem-solving is my forte, and I approach challenges with a tenacious and analytical mindset, consistently seeking innovative and efficient solutions.
+
+When I'm not coding, you'll find me binge-watching either "Modern Family" or “Silicon Valley" for the umpteenth time, playing chess, or researching and learning new concepts.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jennifer-oliseyenum/">
