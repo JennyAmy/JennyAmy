@@ -2,9 +2,9 @@
 
 <hr/>
 
-I am a results-driven Full Stack Software Developer with over four years of hands-on experience in creating robust enterprise solutions within the FinTech and banking sectors, leveraging technologies such as .NET(C#), Angular, and Azure.
+I am a results-driven Senior Full Stack Software Developer with over five years of hands-on experience in creating robust enterprise solutions within the FinTech and banking sectors, using technologies such as .NET(C#), Angular and Azure.
 
-Throughout my career, I have been entrusted with the responsibility of upgrading, maintaining, and spearheading the end-to-end development of a wide array of solutions, including credit applications, banking systems, insurance platforms, administrative portals, and payment solutions. 
+Throughout my career, I have been entrusted with the responsibility of upgrading, maintaining, and managing the end-to-end development of a wide array of solutions, including credit applications, banking systems, insurance platforms, administrative portals, and payment solutions. 
 
 My expertise extends to seamlessly integrating with payment services and developing high-performing web APIs to facilitate smooth transaction processing.
 
